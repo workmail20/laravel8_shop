@@ -1,2 +1,2 @@
 Laravel 8
-Practices: Demo Shop
+Practices: Demo Shop + AJAX + Cart
